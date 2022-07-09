@@ -1,5 +1,5 @@
 {
-  "name": "com.ovaworkt.project-setup-tools",
+  "name": "com.ovaworkt.utility",
   "version": "1.0.1",
   "displayName": "Utility",
   "description": "A collection of commonly-used utility extension methods.",
