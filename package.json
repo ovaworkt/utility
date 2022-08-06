@@ -1,12 +1,12 @@
 {
   "name": "com.ovaworkt.utility",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "displayName": "Utility",
   "description": "A collection of commonly-used utility extension methods.",
-  "unity": "2022.1",
+  "unity": "2021.3",
   "author": {
     "name": "OVAWORKT"
   },
   "type": "tool",
-  "unityRelease": "0b16"
+  "unityRelease": "6f1"
 }
